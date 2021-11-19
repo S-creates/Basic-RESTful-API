@@ -1,4 +1,4 @@
-# Basic-RestHub-API
+# Basic-RESTFul-API
 We build a simple API using ExpressJs and MongoDb with CRUD functions for Contacts.
 Required applications:
 -NodeJS
